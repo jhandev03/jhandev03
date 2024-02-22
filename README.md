@@ -97,6 +97,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhandev03&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhandev03&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhandev03&theme=dracula&utcOffset=8)
 
 </a>
 </p>
