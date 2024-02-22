@@ -95,12 +95,8 @@
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhandev03&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhandev03&theme=dracula)
 
-<p align="center">
-<a href="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhandev03&theme=dracula)">
-  <img height="180em" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhandev03&theme=dracula)"/>
-  
-  "/>
-  <img loading="lazy" height="450em" src="/src/image/skills.png"/>
 </a>
 </p>
