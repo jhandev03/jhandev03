@@ -24,7 +24,7 @@
 <td width="50%">
 <h3 align="center">Certifica</h3>
 <div align="center">
-<a href="https://github.com/ArisG target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt=Django, Postgres y Angular | Integracion Fullstack></a>
+<a href="https://www.udemy.com/certificate/UC-06613f99-fc62-4b71-9eea-4c9ddd69472f/"_blank><img src="/src/Certificate/django-python.jpg" width="400" alt=Django, Postgres y Angular | Integracion Fullstack></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
