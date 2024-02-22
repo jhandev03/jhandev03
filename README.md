@@ -94,8 +94,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhandev03)](https://github.com/anuraghazra/github-readme-stats)">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={jhandev03}&theme={radical}"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhandev03&theme=dracula)
+
   
   "/>
   <img loading="lazy" height="450em" src="/src/image/skills.png"/>
