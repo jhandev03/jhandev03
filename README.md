@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Jhan Durango</a> 👋</h1>
+<h1 align="center">Hi 👋, I'm Jhan Durango</h1>
 </div>
 <img loading="lazy" src="/src/image/banner.png">
 
