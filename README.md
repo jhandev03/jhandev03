@@ -8,7 +8,10 @@
 - ⭐ Github Dev ⭐ 
 - 📲 Mobile developer
 - 💻 Web developer
-- 📚 Desarrollador Autodidacta
+- 📚 Self-taught Developer
+- 📊 Productive
+- 🤓 Frontend Developer
+- 🧠 Backend Developer
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
