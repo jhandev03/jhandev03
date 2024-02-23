@@ -22,18 +22,11 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Certifica</h3>
+<h3 align="center">Django, Postgres y Angular | Integracion Fullstack</h3>
 <div align="center">
 <a href="https://www.udemy.com/certificate/UC-06613f99-fc62-4b71-9eea-4c9ddd69472f/"_blank><img src="/src/Certificate/django-python.jpg" width="400" alt=Django, Postgres y Angular | Integracion Fullstack></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Construye Apps <strong>Android con Kotlin desde cero</strong> profesionales con python, angular, postgres, django. <strong>GRATUITO de 12 horas</strong> Despliega tu Aplicacion Django Rest en Heroku </p>
 </div>
                                                                                       
 </td>
@@ -65,8 +58,6 @@
 <div align="center">
 <a href="https://platzi.com/p/jhandurango14/curso/1557-git-github/diploma/detalle/" width="400" alt="Curso Git y Github"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="/src/Certificate/diploma-git-github.jpg">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
