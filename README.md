@@ -26,7 +26,7 @@
 <div align="center">
 <a href="https://www.udemy.com/certificate/UC-06613f99-fc62-4b71-9eea-4c9ddd69472f/"_blank><img src="/src/Certificate/django-python.jpg" width="400" alt=Django, Postgres y Angular | Integracion Fullstack></a>
 </p>
-<p>Construye Apps <strong>Android con Kotlin desde cero</strong> profesionales con python, angular, postgres, django. <strong>GRATUITO de 12 horas</strong> Despliega tu Aplicacion Django Rest en Heroku </p>
+<p>Construye Apps <strong>Android con Kotlin desde cero</strong> profesionales con python, angular, postgres, django. <strong>GRATUITO de 12 horas</strong> Despliega tu Aplicacion Django Rest en Heroku. </p>
 </div>
                                                                                       
 </td>
@@ -37,7 +37,7 @@
 <div align="center">                                       
 <a href="https://www.udemy.com/certificate/UC-dba1fd67-57c4-4244-a3ed-cc5d70fef562/" target="_blank"><img src="/src/Certificate/maestria-javascript.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
-</p>Aprende <strong>el Lenguaje de Programación Web más usado paso a paso </strong>y crea increibles paginas web</p>
+</p>Aprende <strong>el Lenguaje de Programación Web más usado paso a paso </strong>y crea increibles paginas web.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
